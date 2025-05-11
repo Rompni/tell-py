@@ -1,0 +1,59 @@
+env/
+.env
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+*.egg
+*.whl
+*.mypy_cache/
+*.pytest_cache/
+*.coverage
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+eggs/
+lib/
+lib64/
+parts/
+
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+.coverage
+.coverage.*
+nosetests.xml
+test-results/
+coverage.xml
+*.cover
+*.log
+*.out
+*.xml
+*.json
+*.html
+*.lcov
+*.lcov.info
+*.hypothesis/
+*.hypothesis/
+
+
+# Pytest
+.pytest_cache/
+# Pyre type checker
+.pyre/
+# mypy
+.mypy_cache/
+.mypy/
+# pytype
+.pytype/
+
