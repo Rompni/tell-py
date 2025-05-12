@@ -28,9 +28,9 @@ pip install tell-py
 ## 🔧 Basic Usage
 ```python
 
-from tell_py import Tell
+from tell_py import Sender
 
-tell = Tell(
+tell = Sender(
     bot_token="YOUR_BOT_TOKEN",
     chat_id="YOUR_CHAT_ID"
 )
